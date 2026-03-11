@@ -1,0 +1,11 @@
+# 本地配置文件模板
+# 复制此文件为 local.properties 并修改为你的实际路径
+
+# SDK 路径 - 修改为你的 Android SDK 位置
+# Windows 示例:
+# sdk.dir=C\\:\\Users\\YourName\\AppData\\Local\\Android\\Sdk
+# macOS/Linux 示例:
+sdk.dir=/home/username/Android/Sdk
+
+# NDK 路径 - 可选，如果已安装
+# ndk.dir=/home/username/Android/Sdk/ndk/25.1.8937393
